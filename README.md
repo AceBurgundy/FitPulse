@@ -1,76 +1,61 @@
+# 💪 FitPulse
 
- # 💪 FitPulse
-
-Made for a client, **FitPulse** is a Progressive Web App (PWA) designed to deliver customized workout programs based on user needs. After registering or logging in, users complete a short questionnaire that helps tailor a fitness plan just for them. FitPulse emphasizes simplicity, personalization, and accessibility across devices.
+**FitPulse** is a Progressive Web App (PWA) built using **Django** (backend) and **React** (frontend), created for a private client. The app delivers **personalized workout programs** tailored to user preferences and fitness goals through a clean, mobile-friendly experience. After registration and a brief fitness questionnaire, users receive smart program recommendations — all with support for offline use and installable across platforms.
 
 ## 🚀 Features
 
 * 🔐 **User Authentication**
-  Secure login and registration system
+  Secure login and registration using Django authentication
 
 * 📋 **Fitness Questionnaire**
-  Users answer tailored questions to assess goals, experience, and preferences
+  Users answer goal-based, experience-level, and preference-driven questions
 
 * 🧠 **Smart Program Matching**
-  Automatically generates personalized workout routines based on responses
+  Automatically suggests tailored workout routines based on questionnaire results
 
 * 🌐 **PWA Support**
-  Installable on mobile and desktop with offline capabilities
+  Installable as a native-like app on mobile and desktop with offline access
 
-* 🧱 **Responsive Design**
-  Clean and adaptive layout for all screen sizes
+* 📱 **Responsive Interface**
+  Modern, responsive design using React for seamless experience across devices
 
 ## 🧰 Tech Stack
 
-* **Python / Flask** – Backend logic and user management
-* **SQLite3** – Lightweight database for storing user data
-* **HTML / CSS / JS** – Frontend interface
-* **Service Workers / Web Manifest** – PWA functionality
-* **Jinja2** – Template rendering engine
+**Backend**
 
-## 📦 Installation
+* 🐍 Django – Core backend logic and API
+* 🧩 Django REST Framework – API layer
+* 🛢️ SQLite3 – Development database
+* 🔐 Django Auth – User registration and login
 
-### Prerequisites
+**Frontend**
 
-* Python 3.7+
-* pip
+* ⚛️ React – SPA frontend architecture
+* 🧾 Redux – State management
+* 🧭 React Router – Page navigation
+* 💅 CSS Modules – Scoped styling
 
-### Setup Instructions
+**PWA Support**
 
-1. Clone the repository
-
-   ```bash
-   git clone https://github.com/yourusername/fitpulse.git
-   cd fitpulse
-   ```
-
-2. Install required packages
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the app
-
-   ```bash
-   python app.py
-   ```
-
-4. Open your browser at `http://localhost:5000`
+* ⚙️ Service Workers
+* 📱 Web Manifest
+* ⚡ Offline caching
 
 ## 🛠️ Future Enhancements
 
-* Progress tracking and calendar view
-* Goal-based meal recommendations
-* User-editable programs
-* Community forum or social integration
-* Admin dashboard for managing programs
+* 📊 Fitness progress tracker and analytics
+* 🍱 Nutrition and meal suggestions
+* 🗓️ Calendar integration for scheduling workouts
+* 🎯 Editable goals and custom plans
+* 🧑‍🤝‍🧑 Social features and team challenges
+* 📋 Admin dashboard for workout plan curation
 
 ## 📝 License
 
-This project was developed for a private client. For customization or reuse inquiries, please contact the developer.
+This project was created as a **commissioned app for a client**.
+For collaboration, customization, or reuse inquiries, please contact the developer directly.
 
-## 📬 Contact
+## 👨‍💻 Author
 
-* **Developer GitHub**: [AceBurgundy](https://github.com/AceBurgundy)
-* **Email**: [Samadriansabalo99@gmail.com](mailto:Samadriansabalo99@gmail.com)
+* GitHub: [@AceBurgundy](https://github.com/AceBurgundy)
+* Email: [samadriansabalo99@gmail.com](mailto:samadriansabalo99@gmail.com)
