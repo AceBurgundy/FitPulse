@@ -1,6 +1,6 @@
 # 💪 FitPulse
 
-**FitPulse** is a Progressive Web App (PWA) built using **Django** (backend) and **React** (frontend), created for a private client. The app delivers **personalized workout programs** tailored to user preferences and fitness goals through a clean, mobile-friendly experience. After registration and a brief fitness questionnaire, users receive smart program recommendations — all with support for offline use and installable across platforms.
+**FitPulse** is a workout app **Django** (backend) and **React** (frontend), created for a private client. The app delivers **personalized workout programs** tailored to user preferences and fitness goals through a clean, mobile-friendly experience. After registration and a brief fitness questionnaire, users receive smart program recommendations — all with support for offline use and installable across platforms.
 
 ## 🚀 Features
 
@@ -12,9 +12,6 @@
 
 * 🧠 **Smart Program Matching**
   Automatically suggests tailored workout routines based on questionnaire results
-
-* 🌐 **PWA Support**
-  Installable as a native-like app on mobile and desktop with offline access
 
 * 📱 **Responsive Interface**
   Modern, responsive design using React for seamless experience across devices
