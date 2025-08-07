@@ -31,15 +31,8 @@
 **Frontend**
 
 * ⚛️ React – SPA frontend architecture
-* 🧾 Redux – State management
 * 🧭 React Router – Page navigation
 * 💅 CSS Modules – Scoped styling
-
-**PWA Support**
-
-* ⚙️ Service Workers
-* 📱 Web Manifest
-* ⚡ Offline caching
 
 ## 🛠️ Future Enhancements
 
