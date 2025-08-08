@@ -2,6 +2,9 @@
 
 **FitPulse** is a workout app **Django** (backend) and **React** (frontend), created for a private client. The app delivers **personalized workout programs** tailored to user preferences and fitness goals through a clean, mobile-friendly experience. After registration and a brief fitness questionnaire, users receive smart program recommendations — all with support for offline use and installable across platforms.
 
+## 📷 Screenshots
+![UI](FitPulse.webp)
+
 ## 🚀 Features
 
 * 🔐 **User Authentication**
